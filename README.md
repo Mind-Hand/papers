@@ -6,4 +6,5 @@
 ### Discussion and Future Work
 * 文章仅限于发现拼写的错误，并用正确的字去替换，限于三类错误（音，形，意思相近）
 * 除了spelling error外，还有grammar error 对于此类的问题，尚未得到有效的解决，一种方法是要重新考虑如何将confusionset合并到编码器-解码器体系结构中。（One concern is that we need to reconsider how to incorporate Confusionsets into the encoder-decoder architecture.）
+* 文章还有个局限就是输入输出的文本的长度是一样的
 
